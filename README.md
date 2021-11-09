@@ -16,7 +16,7 @@ Clonar el proyecto
 Ir al directorio del proyecto
 
 ```bash
-  cd weather-mobile
+  cd java-peluqueria-canina
 ```
 
 Crear base de datos
