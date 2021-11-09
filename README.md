@@ -12,7 +12,7 @@ Proyecto de peluquería canina en Java con JPA
 Clonar el proyecto
 
 ```bash
-  git clone https://github.com/me-chell/weather-mobile.git
+  git clone https://github.com/me-chell/java-peluqueria-canina.git
 ```
 
 Ir al directorio del proyecto
