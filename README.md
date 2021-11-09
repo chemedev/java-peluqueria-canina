@@ -1,6 +1,8 @@
 # java-peluqueria-canina
 Proyecto de peluquería canina en Java con JPA
 
+![image](https://user-images.githubusercontent.com/48027296/141011799-85f2cc90-1f7c-4703-a018-217b8087bef0.png)
+
 ## Autores
 
 - [Juan E. Chemello](https://www.github.com/me-chell)
